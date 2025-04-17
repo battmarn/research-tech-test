@@ -16,7 +16,7 @@
     "eklipx-test-root": "file:..",
     "jest": "^29.7.0",
     "jsonschema": "^1.4.1",
-    "koa": "^2.15.4",
+    "koa": "^2.16.1",
     "koa-bodyparser": "^4.4.1",
     "koa-logger": "^3.2.1",
     "koa-router": "^13.0.1",
